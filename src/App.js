@@ -1,8 +1,8 @@
-import './App.css';
+import ExpenseItem from './components/ExpenseItems';
 function App() {
   return (
     <div>
-      <h2>Hello World!</h2>
+      <ExpenseItem></ExpenseItem>
       <p>Samuli Pesso / VAMK / BIT</p>
     </div>
   );
